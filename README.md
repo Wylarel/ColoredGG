@@ -1,24 +1,18 @@
 # ChatPing
-## A Minecraft plugin to ping players in chat
+## A Minecraft plugin to color GGs in chat
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://wylarel.com/mit/)
 [![Discord](https://img.shields.io/badge/Chat-Discord-blue)](https://discord.gg/7qvmeh2)
 [![Versions](https://img.shields.io/badge/Tested%20Versions-1.15.x-orange)](#)
 ## Configuration
 ```yaml
-canselfping: [boolean] - Does a player get the ping if he mentions himself in the chat?
-
-sound:
-  enable: [boolean] - Does the ping play a sound effect to the mentioned player?
-  value: [string] - Minecraft sound effect played when pinged
-  
-color: 
-  enable: [boolean] - Does the ping appears in a different color in the chat?
-  value: [string] - Color code of the color (using the & character)
-
-actionbar: 
-  enable: [boolean] - Does the ping appears in the actionbar?
-  message: [string] - Message in the actionbar when pinged
+trigger: [String] - String that triggers the plugin
+replace_by: [String] - Usually the same as trigger
+case_sensitive: [Boolean] - Is the trigger case sensitive?
+format: [String] - Format of the replaced word using minecraft color code and the character &
 ```
+## Permission
+### Players:
+**coloredgg.use** - Send colored GGs
 
 ## [MIT License](https://wylarel.com/mit/)
 ```

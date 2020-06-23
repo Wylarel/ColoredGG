@@ -3,7 +3,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://wylarel.com/mit/)
 [![Discord](https://img.shields.io/badge/Chat-Discord-blue)](https://discord.gg/7qvmeh2)
 [![Versions](https://img.shields.io/badge/Tested%20Versions-1.7.x%20--%201.16.x-orange)](#)
-![ColoredGG by Wylarel](https://file.wylarel.com/coloredgg.png)
+[![Bukkit](https://img.shields.io/badge/Download%20on-Bukkit-orange)](https://dev.bukkit.org/projects/coloredgg)
+[![Spigot](https://img.shields.io/badge/Download%20on-Spigot-orange)](https://www.spigotmc.org/resources/coloredgg.80577/)
+![](https://file.wylarel.com/coloredgg_small.png)
 ## Configuration
 ```yaml
 trigger: [String] - String that triggers the plugin

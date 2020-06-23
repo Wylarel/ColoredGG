@@ -1,0 +1,4 @@
+trigger: "GG"
+replace_by: "GG"
+case_sensitive: false
+format: "&6&l"

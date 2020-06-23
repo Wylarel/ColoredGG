@@ -1,0 +1,5 @@
+name: ColoredGG
+version: 1.0
+main: com.wylarel.coloredgg.Main
+description: A Minecraft plugin to color GGs in chat
+

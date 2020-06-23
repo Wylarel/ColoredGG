@@ -2,7 +2,7 @@
 ## A Minecraft plugin to color GGs in chat
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://wylarel.com/mit/)
 [![Discord](https://img.shields.io/badge/Chat-Discord-blue)](https://discord.gg/7qvmeh2)
-[![Versions](https://img.shields.io/badge/Tested%20Versions-1.15.x-orange)](#)
+[![Versions](https://img.shields.io/badge/Tested%20Versions-1.7.x%20--%201.16.x-orange)](#)
 ## Configuration
 ```yaml
 trigger: [String] - String that triggers the plugin

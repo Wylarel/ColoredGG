@@ -3,6 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://wylarel.com/mit/)
 [![Discord](https://img.shields.io/badge/Chat-Discord-blue)](https://discord.gg/7qvmeh2)
 [![Versions](https://img.shields.io/badge/Tested%20Versions-1.7.x%20--%201.16.x-orange)](#)
+![ColoredGG by Wylarel](https://file.wylarel.com/coloredgg.png)
 ## Configuration
 ```yaml
 trigger: [String] - String that triggers the plugin

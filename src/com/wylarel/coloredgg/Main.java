@@ -24,7 +24,7 @@ public class Main extends JavaPlugin implements Listener {
 	@EventHandler
     public void onChat(AsyncPlayerChatEvent e) {
 		String trigger = getConfig().getString("trigger");
-		if(!e.getMessage().toLowerCase().contains(trigger.toLowerCase())) return;
+		if(!e.getMessage().toLowerCase().contains(trigger.toLowerCase()) || !e.getPlayer().hasPermission("coloredgg.use")) return;
 		String lastColor = ChatColor.getLastColors(e.getMessage());
         e.setMessage(e.getMessage().replaceAll((getConfig().getBoolean("case_sensitive") ? "" : "(?i)") + trigger, getConfig().getString("format").replace("&", "§") + getConfig().getString("replace_by") + (lastColor.isEmpty() ? ChatColor.RESET : lastColor)));
     }

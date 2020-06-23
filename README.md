@@ -5,7 +5,7 @@
 [![Versions](https://img.shields.io/badge/Tested%20Versions-1.7.x%20--%201.16.x-orange)](#)
 [![Bukkit](https://img.shields.io/badge/Download%20on-Bukkit-orange)](https://dev.bukkit.org/projects/coloredgg)
 [![Spigot](https://img.shields.io/badge/Download%20on-Spigot-orange)](https://www.spigotmc.org/resources/coloredgg.80577/)
-![](https://file.wylarel.com/coloredgg_small.png)
+[![](https://file.wylarel.com/coloredgg_small.png)](#)
 ## Configuration
 ```yaml
 trigger: [String] - String that triggers the plugin

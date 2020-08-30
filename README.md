@@ -5,7 +5,6 @@
 [![Versions](https://img.shields.io/badge/Tested%20Versions-1.7.x%20--%201.16.x-orange)](#)
 <br>
 [![Bukkit](https://img.shields.io/badge/Download%20on-Bukkit-orange)](https://dev.bukkit.org/projects/coloredgg)
-[![Bukkit Rating](https://img.shields.io/badge/Download%20on-Bukkit-orange)](https://dev.bukkit.org/projects/coloredgg)
 [![Spigot](https://img.shields.io/badge/Download%20on-Spigot-orange)](https://www.spigotmc.org/resources/coloredgg.80577/)
 [![Spigot Rating](https://img.shields.io/spiget/stars/80577?color=yellow&label=Spigot%20Rating)](https://www.spigotmc.org/resources/coloredgg.80577/)
 <br>
